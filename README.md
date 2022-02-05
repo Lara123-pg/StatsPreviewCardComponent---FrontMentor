@@ -22,4 +22,8 @@ StatsPreviewCardComponent é um desafio da plataforma FrontendMentor, que tem ob
 
 Lara Fernanda
 
+# Licença
+
+Este projeto está sob a licença MIT - Veja https://github.com/Lara123-pg/StatsPreviewCardComponent---FrontMentor/blob/main/LICENSE
+
 
