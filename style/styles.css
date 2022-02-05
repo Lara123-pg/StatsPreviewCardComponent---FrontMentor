@@ -150,7 +150,7 @@ img{
 }
 
 .attribution { font-size: 1.1rem; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsla(0, 0%, 100%, 0.6); }
 
 @media (max-width: 1192px) {
     div.card {
