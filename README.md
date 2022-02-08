@@ -7,8 +7,8 @@
 Clone o projeto em seu dispositivo e acesse a pasta do mesmo
 
 ```
-$ git clone https://github.com/Lara123-pg/StatsPreviewCardComponent---FrontMentor
-$ cd StatsPreviewCardComponent---FrontMentor
+$ git clone https://github.com/Lara123-pg/StatsPreviewCardComponent--FrontendMentor.git
+$ cd StatsPreviewCardComponent--FrontendMentor
 $ code .  (Abrir o Visual Studio Code)
 ```
 
